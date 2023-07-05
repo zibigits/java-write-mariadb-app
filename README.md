@@ -1,1 +1,1 @@
-# java-write-mariadb-app
+test app
